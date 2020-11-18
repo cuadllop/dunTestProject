@@ -1,0 +1,12 @@
+{
+  "chromeWebSecurity": false,
+  "baseUrl" : "https://snipcart-react-gatsby.netlify.app/",
+  "viewportWidth": 1440,
+  "viewportHeight": 900,
+  "defaultCommandTimeout": 60000,
+  "pageLoadTimeout": 60000,
+  "requestTimeout": 20000,
+  "waitForAnimations": true,
+  "videoUploadOnPasses": false,
+  "animationDistanceThreshold": 50
+}
