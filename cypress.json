@@ -1,4 +1,5 @@
 {
+  "projectId": "jruh1z",
   "chromeWebSecurity": false,
   "baseUrl" : "https://snipcart-react-gatsby.netlify.app/",
   "viewportWidth": 1440,
