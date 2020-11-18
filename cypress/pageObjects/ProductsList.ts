@@ -1,4 +1,4 @@
-import { ProductPage } from "./productPage";
+import { ProductPage } from "./ProductPage";
 
 export class ProductsList
 {
