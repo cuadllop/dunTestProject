@@ -24,4 +24,4 @@ I only have added comments for code that needs specific explanation (apart of ad
 
 ## How to run
 - npm run cypress:run to run all the tests
-- npm run cypress:open to open the cypress console
+- npm run cypress:open to open the cypress console.
